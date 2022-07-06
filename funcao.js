@@ -1,0 +1,3 @@
+function moistarOi(){
+    alert("Oi");
+}
